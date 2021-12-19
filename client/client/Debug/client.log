@@ -1,0 +1,2 @@
+﻿  main.cpp
+C:\Users\unja0\source\repos\client\client\main.cpp(6,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
