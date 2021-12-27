@@ -14,9 +14,5 @@
 - MySql
 
 ### 개발 환경
-- visual studio 2019
+- Android Studio
 
-
-### 개발 과정 참고 사이트
-- https://www.openssl.org/docs/
-- https://domdom.tistory.com/225
