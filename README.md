@@ -14,5 +14,5 @@
 - MySql
 
 ### 개발 환경
-- Android Studio
+- Visual Studio 2019
 
